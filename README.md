@@ -21,7 +21,7 @@ Eu sou o Ian Felipe de Oliveira Granato, tenho 19 anos e sou de Brasília. Atual
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -29,7 +29,7 @@ Eu sou o Ian Felipe de Oliveira Granato, tenho 19 anos e sou de Brasília. Atual
     align="left" 
     alt="CSS"
     title="CSS" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
@@ -37,7 +37,7 @@ Eu sou o Ian Felipe de Oliveira Granato, tenho 19 anos e sou de Brasília. Atual
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
@@ -46,7 +46,7 @@ Eu sou o Ian Felipe de Oliveira Granato, tenho 19 anos e sou de Brasília. Atual
     align="left" 
     alt="CSS"
     title="CSS" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
