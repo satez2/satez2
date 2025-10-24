@@ -16,7 +16,7 @@ Eu sou o Ian Felipe de Oliveira Granato, tenho 19 anos e sou de Brasília. Atual
 </p>
 
 ---
-### 🤖 Linguagens e Tecnologias 🤖
+## 🤖 Linguagens e Tecnologias 🤖
 <img 
     align="left" 
     alt="HTML"
@@ -53,7 +53,7 @@ Eu sou o Ian Felipe de Oliveira Granato, tenho 19 anos e sou de Brasília. Atual
 <br/>
 <br/>
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
 <p>
 <img 
