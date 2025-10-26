@@ -13,6 +13,9 @@ Eu sou o Ian Felipe de Oliveira Granato, tenho 19 anos e sou de Brasília. Atual
             src="https://custom-icon-badges.demolab.com/github/followers/satez2?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
             />
 </a>
+<a href="linkedin.com/in/ian-felipe-granato">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
 ---
