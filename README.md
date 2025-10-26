@@ -15,7 +15,7 @@ Eu sou o Ian Felipe de Oliveira Granato, tenho 19 anos e sou de Brasília. Atual
 </a>
 
 
- <a href = "ianfgranato@gmail.com">
+ <a href = "[ianfgranato@gmail.com](https://mail.google.com/mail/u/0/?pli=1#inbox)">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
         target="_blank">
 </a>
