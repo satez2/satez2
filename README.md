@@ -12,16 +12,21 @@ Eu sou o Ian Felipe de Oliveira Granato, tenho 19 anos e sou de Brasília. Atual
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/satez2?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
             />
-        </a>
-</p>
+</a>
 
+
+ <a href = "ianfgranato@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+        target="_blank">
+</a>
+</p>
 ---
-## 🤖 Linguagens e Tecnologias 🤖
+### 🤖 Linguagens e Tecnologias 🤖
 <img 
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -29,7 +34,7 @@ Eu sou o Ian Felipe de Oliveira Granato, tenho 19 anos e sou de Brasília. Atual
     align="left" 
     alt="CSS"
     title="CSS" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
@@ -37,7 +42,7 @@ Eu sou o Ian Felipe de Oliveira Granato, tenho 19 anos e sou de Brasília. Atual
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
@@ -46,14 +51,14 @@ Eu sou o Ian Felipe de Oliveira Granato, tenho 19 anos e sou de Brasília. Atual
     align="left" 
     alt="CSS"
     title="CSS" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 <br/>
 <br/>
 
-## 📊 Estatísticas
+### 📊 Estatísticas
 
 <p>
 <img 
