@@ -13,13 +13,8 @@ Eu sou o Ian Felipe de Oliveira Granato, tenho 19 anos e sou de Brasília. Atual
             src="https://custom-icon-badges.demolab.com/github/followers/satez2?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
             />
 </a>
-
-
- <a href = "ianfgranato@gmail.com (https://mail.google.com/mail/u/0/?pli=1#inbox)">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-        target="_blank">
-</a>
 </p>
+
 ---
 ### 🤖 Linguagens e Tecnologias 🤖
 <img 
