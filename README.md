@@ -59,7 +59,7 @@ Eu sou o Ian Felipe de Oliveira Granato, tenho 19 anos e sou de Brasília. Atual
 ### Estatísticas
 
 <p>
-<img 
+  <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
@@ -67,12 +67,12 @@ Eu sou o Ian Felipe de Oliveira Granato, tenho 19 anos e sou de Brasília. Atual
     src="https://github-readme-stats.vercel.app/api?username=satez2&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img
-    align="left"
-    alt="GitHub Stats"
-    height="200px"
-    style="padding-right: 10px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=satez2&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7"
-/>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=satez2&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
 </p>
+
